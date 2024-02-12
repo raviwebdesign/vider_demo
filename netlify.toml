@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/blog/*"
+  to = "https://65c9de3ebb96aebcd08307de--fluffy-croissant-f26e87.netlify.app/blog/:splat"
+  status = 200
+  force = true
