@@ -1,5 +1,4 @@
 [[redirects]]
-  from = "/blog/*"
+ from = "/blog/*"
   to = "https://golden-axolotl-22d480.netlify.app/blog/:splat"
-  status = 200
-  force = true
+  status = 301
